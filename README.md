@@ -4,8 +4,8 @@
 
 ### Usage:
 
-    nbudstee [inputs ...]
-    nbudstee [options]
+    multipipelineview [inputs ...]
+    multipipelineview [options]
 
 Where inputs ... are one or more files/FIFOs or stream-mode Unix domain socket files.
 
